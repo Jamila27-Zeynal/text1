@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 1285px 832px;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    height: 3032px;
+    background-color: #0F0F1B;
+    
+}
+
+
+.container{
+    color: white;
+    text-align: center;
+    margin-top:250px;
+}
+.container p{
+    margin:  50px;
+
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    top: 211px;
+   border-radius: 10px;
+   color: white;
+}
+
+.card1{
+    background-color: #242486;
+    margin-top: 185px;
+    margin-right: 50px;
+    padding: 100px;
+}
+
+.card2{
+    background-color: #171727;
+    margin-top: 185px;
+    margin-right: 50px;
+    padding: 100px;
+   
+}
+.card3{
+   background-color: #171727;
+   margin-top: 185px;
+    margin-right: 50px;
+    padding: 100px;
+  
+}
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:   0px ;
+    padding:0px;
+}
+.Button{
+    justify-content: center;
+    margin: 20px;
+    margin-left: 650px;
+    margin-right: 650px;
+    border-radius: 20px;
+    border: 1px solid #69699A;
+    border-radius: 450px;
+    padding: 10px;
+
+}
+#ViewMore{
+    border: 1px solid #69699A;
+    background-color:#69699A ;
+}
+
+
+
+
+ 
+ 
